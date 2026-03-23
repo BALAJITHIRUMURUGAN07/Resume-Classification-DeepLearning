@@ -51,7 +51,7 @@ To automatically classify resume text into job categories using deep learning te
 
 ## 📸 Output
 
-![App Output](UI output.png)
+![App Output](app.png)
 
 ---
 
